@@ -78,11 +78,11 @@ Download and install MiniConda from the official page [here](https://conda.io/mi
 
 | Name                                                         | Description |
 | ------------------------------------------------------------ | ----------- |
-| [NodeJS](https://github.com/nodesource/distributions/blob/master/README.md) |             |
-| [Conda (Python)](https://docs.conda.io/en/latest/miniconda.html) |             |
-| [React](https://reactjs.org/docs/create-a-new-react-app.html) |             |
-| [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) |             |
-| [AWS CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html) |             |
+| [NodeJS](https://github.com/nodesource/distributions/blob/master/README.md) | Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. |
+| [Conda (Python)](https://docs.conda.io/en/latest/miniconda.html) | Conda is an open-source, cross-platform, language-agnostic package manager and environment management system. |
+| [React](https://reactjs.org/docs/create-a-new-react-app.html) | React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. |
+| [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) | A command-line interface (CLI) processes commands to a computer program in the form of lines of text. Amazon Web Services is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. |
+| [AWS CDK](https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html) | AWS CDK enables you to build your cloud application without leaving your IDE. |
 
 
 
