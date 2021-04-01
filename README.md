@@ -72,7 +72,19 @@ sudo dpkg -i gitkraken-amd64.deb
 
 Download and install MiniConda from the official page [here](https://conda.io/miniconda.html).
 
+### [7-Zip](https://www.7-zip.org/)
 
+```bash
+sudo apt-get update
+sudo apt-get install p7zip-full
+```
+
+### [GParted](https://gparted.org/index.php)
+
+```bash
+sudo apt update
+sudo apt install gparted
+```
 
 ## Frameworks and Tools
 
